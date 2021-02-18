@@ -1,0 +1,6 @@
+name: En Hui
+blood: B+
+allergies: None
+medical conditions: None
+height: 220m
+weight: 20kg
